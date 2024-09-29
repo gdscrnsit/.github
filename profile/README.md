@@ -46,7 +46,7 @@ Explore the repositories of our GDSC members:
 
 | Members                  | GitHub Repo                                   |
 |-------------------------|-----------------------------------------------|
-| payallenka [GDSC Lead]             | [https://github.com/payallenka](https://github.com/payallenka) |
+| Payal Lenka [GDSC Lead]             | [https://github.com/payallenka](https://github.com/payallenka) |
 | Anantesh G              | [https://github.com/anantesh-g](https://github.com/anantesh-g) | 
 | Adarsh G S              | [https://github.com/100percentBAKA](https://github.com/100percentBAKA) | 
 | Aasish Nandakumar       | [https://github.com/AashishNandakumar](https://github.com/AashishNandakumar) | 
